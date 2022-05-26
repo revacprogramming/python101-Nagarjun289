@@ -1,3 +1,3 @@
+hello world = 43
 
-
-print("hello world")
+print(hello world)

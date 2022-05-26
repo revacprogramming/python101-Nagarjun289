@@ -1,6 +1,3 @@
-# Files
-
-filename = "dataset/mbox-short.txt"
 
 # Use the file name mbox-short.txt as the file name
 def myinput():
